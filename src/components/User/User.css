@@ -1,0 +1,18 @@
+.user-part{
+    background-color: #e9f3ea;
+    display: flex;
+    justify-content: space-between;
+    border-radius: 8px;
+    align-items: center;
+    padding-left:5px ;
+    padding-right: 5px;
+    height: 50px;
+    margin: 5px;
+
+}
+.btn-user{
+    background-color: #ff5434;
+    color: white;
+    margin-left: 5px;
+    box-sizing: border-box;
+}

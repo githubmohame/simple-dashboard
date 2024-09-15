@@ -1,0 +1,27 @@
+.add-task-btn{
+    background-color: #45a14e;
+    font-size: 15px;
+    align-self: start;
+    margin-top: 10px;
+    color: white;
+    border-radius: 5px;;
+}
+.add-task-input{
+    margin-top: 10px;;
+  width: 150%;
+  height: 25px;
+}
+.add-task-input:focus{
+    outline: none;
+}
+.add-task-part{
+   margin: 10px;
+    width: 80%;
+    display: grid;
+    flex-direction: column;
+    justify-content: start;
+    justify-items: start;
+    align-items: start;
+    align-content: start;
+
+}

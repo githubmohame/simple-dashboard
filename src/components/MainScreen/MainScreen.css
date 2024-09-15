@@ -1,0 +1,17 @@
+.center-card{
+    max-height: 500px;
+    width: 400px;
+    background-color: #ffffff;
+    border-radius: 12px;
+    overflow-y: auto;
+
+}
+.main-screen{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    height: 100%;
+    width: 100%;
+    background-color: #f5f4f9;
+    ;
+}

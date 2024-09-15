@@ -1,0 +1,25 @@
+.add-user-btn{
+    background-color: #45a14e;
+    font-size: 15px;
+    align-self: start;
+    margin-top: 10px;
+    color: white;
+    border-radius: 5px;;
+}
+.add-user-input{
+  width: 150%;
+  height: 25px;
+}
+.add-user-input:focus{
+    outline: none;
+}
+.add-user-part{
+    width: 100%;
+    display: grid;
+    flex-direction: column;
+    justify-content: start;
+    justify-items: start;
+    align-items: start;
+    align-content: start;
+
+}
